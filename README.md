@@ -100,8 +100,12 @@ REACT_APP_STRIPE_PRICE_ID =
 ```
 
 ## Built With
-Python - Back-end programming language 
+Python - Back-end programming language
+
 Flask - Micro web framework
+
 React.js - Front-end web library 
+
 PostgreSQL - Powerful relational database management system
+
 Stripe - Online payment processing API
