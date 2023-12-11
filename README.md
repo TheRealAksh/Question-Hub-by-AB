@@ -1,4 +1,4 @@
-# QyestionHub by AB
+# QuestionHub by AB
 
 A SaaS (Software as a Service) app to allow individuals to host their own shareable Q&A platforms. Made with Python, Flask, React.js, PostgreSQL, and Stripe.
 
