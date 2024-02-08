@@ -14,7 +14,7 @@ A step by step series of examples that tell you how to get a development env run
 #### Clone
 
 ```sh
-$ git clone https://github.com/aahmad4/Whats-On-Ur-Mind
+$ git clone https://github.com/TheRealAksh/Question-Hub-by-AB
 ```
 
 #### Installation
